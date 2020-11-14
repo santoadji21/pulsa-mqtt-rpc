@@ -16,9 +16,9 @@ To running this program make sure that the following dependencies library are in
 
 ```
 pulsa-mqtt-rpc/ 
-|- Payment.py  		  #as server for Provider
+|- Payment.py  		 #as server for Provider
 |- Provider.py      #as server for buyer and as client in Payment
-|- Buyer.py        	#as client in Provider
+|- Buyer.py        #as client in Provider
 ```
 
 Running Program Sequentially
